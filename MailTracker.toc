@@ -1,0 +1,8 @@
+## Interface: 100105
+## Title: MailTracker
+## Author: YourName
+## Version: 1.0
+## Notes: Tracks mail received from players and saves it to a JSON file.
+## SavedVariables: MailTrackerData
+
+MailTracker.lua
